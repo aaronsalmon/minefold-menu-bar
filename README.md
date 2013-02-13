@@ -1,7 +1,3 @@
-# Popup
+# Minefold Menu Bar
 
-Popup project is a demo with custom popover window appearing from the icon in the Mac OS X status bar.
-
-# License
-
-Popup is licensed under the BSD license.
+We are attempting to show who's currently playing on your minefold sever up in the menu bar.
